@@ -17,7 +17,7 @@ Features
 
 Tech Stack
 
-Backend: Java, Spring Boot, Spring Data JPA, RESTful API
+Backend: Java, Spring Boot
 Frontend: HTML, CSS, JavaScript
 Database: MySQL
 Build Tool: Maven
